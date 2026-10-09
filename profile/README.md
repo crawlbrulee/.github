@@ -4,7 +4,7 @@
 
 <h1 align="center">🍮 crawlbrulee</h1>
 
-<p align="center">EU-native web scraping AI agents & developers</p>
+<p align="center">EU-native web scraping for AI agents & developers</p>
 
 ---
 
